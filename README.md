@@ -8,15 +8,16 @@
 - VOTE (Visualizing Official Taxpayer Expenditures)
 - CORE (Civic Oversight & Record Engine)
 - FACT (Federal Accountability & Civic Transparency)
+- PUBLIUS (Public Unmasking of Bureaucratic Ledgers, Information, & Unbiased Statistics)
 - The Paper Trail
 - Glass House/Parliament/Congress/Paine
-- PUBLIUS
 - The Sunlight Metric/Index
 - Donor Doxxing
 - Signal & State
 - Polis Watch
 - Zenger Audit
 - The Fifth Estate
+- We The People
 
 ## Features
 
